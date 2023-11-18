@@ -1,0 +1,26 @@
+WPA ATTACK
+    position: 9 --- 11s
+    position: 4800 --- x
+
+    x = 5866s
+    1hr + 32min
+
+    position: 9 --- 11s
+    position: 25 --- 31s
+
+------------------------------------------------------------------------------
+Improve:
+    Brute Force
+        Brute_WPA_Force:
+            ---Prints---
+
+        Brute_Force:
+            ---Skip warning SSL---
+            ---Proxies---
+            ---XMLHTTPRequest function---
+
+    DeepFind
+
+    PayloadInyection
+
+    SQLInyection
