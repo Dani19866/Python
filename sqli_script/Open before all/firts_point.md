@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Change the directory in DiccionariesPATH/paths.py
     Change the directory for your actual directory
 
@@ -22,7 +21,6 @@
 
     Second:
         Change de route in SQLInyection.py
-=======
 # Change the directory in DiccionariesPATH/paths.py
     Change the directory for your actual directory
 
@@ -46,5 +44,4 @@
 
     Second:
         Change de route in SQLInyection.py
->>>>>>> b5eeba62e5323d4509741493fbad3cc71f725e39
         DiccionaryPATH

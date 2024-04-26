@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # KrakenInyection: Create by Kraken
 
 Brute Force WPA
@@ -128,5 +127,4 @@ Init if the target is a URL
 
 Only attack 1 param. If you finish the attack with query, start other attack with query2
 
->>>>>>> b5eeba62e5323d4509741493fbad3cc71f725e39
     python krakenInyection.py -sql -u "https://www.example.com/" -get|-post -q "query=pass&query2=*"
